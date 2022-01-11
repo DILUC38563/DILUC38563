@@ -6,10 +6,11 @@
 
 <br>
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />][linkedin]
+[<img src="https://img.icons8.com/doodle/48/000000/facebook-new.png" />][facebook]
+[<img src="https://img.icons8.com/bubbles/50/000000/instagram-new--v1.png" />][instagram]
 
+<hr>
 
 <br>
 
