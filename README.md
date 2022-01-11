@@ -1,5 +1,3 @@
-### Hi there, I'm Aditya Bokade 👋 
-
 <h1 align="center"> Hi there, i'm Aditya Bokade 👋</h1>
 
 <br>
@@ -69,8 +67,6 @@
 <hr>
 
 <br>
-
-
 
 
 [linkedin]: https://www.linkedin.com/in/aditya-bokade-51b01b203
