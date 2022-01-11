@@ -2,7 +2,7 @@
 
 <br>
 
-### Connect With me:
+### Connect With me
 
 <br>
 
@@ -25,7 +25,7 @@
 
 <br>
 
-## 🚀 Languages And Tools:
+## 🚀 Languages And Tools
 
 <br>
 
@@ -55,7 +55,7 @@
 
 <br>
 
-## Interest:
+## Interests
 
 <br>
 
