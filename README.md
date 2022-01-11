@@ -10,7 +10,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<hr>
 
 <br>
 
@@ -29,6 +28,11 @@
 
 <br>
 
+- <img src="https://img.icons8.com/color/48/000000/html-5--v2.png" /> HTML
+- <img src="https://img.icons8.com/color/48/000000/css3.png" /> CSS
+- <img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png" /> React
+- <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> NodeJs
+- <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB
 
 <hr>
 
